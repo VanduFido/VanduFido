@@ -1,8 +1,10 @@
+
+![image](https://user-images.githubusercontent.com/71388049/222407558-74260245-fee1-40fd-9cb3-c0ccb4001b14.png)
+
 ### Hi there 👋
 
 <!--
 **VanduFido/VanduFido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
