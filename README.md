@@ -1,4 +1,4 @@
-### Hi, I'm Confidence Vandu 👋
+### Hi👋, I'm Confidence Vandu
 
 ![image](https://user-images.githubusercontent.com/71388049/222407950-5b84bbdb-7a95-4337-a676-0a8d3e419fc2.png)
 
